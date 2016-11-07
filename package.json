@@ -10,8 +10,8 @@
     "node": ">= 0.8"
   },
   "dependencies": {
-    "canvas": "~1.2.0",
-    "graceful-fs": "~1.2.2"
+    "canvas": "~1.6.2",
+    "graceful-fs": "~4.1.10"
   },
   "scripts": {},
   "main": "./resemble.js"
